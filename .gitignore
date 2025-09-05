@@ -1,0 +1,11 @@
+*.pdf
+*.docx
+.virtualenv/
+.idea/
+__pycache__/
+images/
+.cache
+env/
+.Python
+*.so
+
